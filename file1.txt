@@ -1,2 +1,3 @@
 1st line in f1.txt by DevA
 2nd line added by Dev B
+3rd line added by dev a
